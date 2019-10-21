@@ -146,3 +146,5 @@ export default Search
 Vous devriez donc avoir une App fonctionnelle sur mobile et qui affiche les résultats de films recherchés.    
 
 ![image final-app](../assets/img/final-app.png)  
+
+Si vous souhaitez continuer l'application, vous pouvez vous rendre <a href="https://openclassrooms.com/fr/courses/4902061-developpez-une-application-mobile-react-native/5046301-concevez-une-navigation-entre-vos-vues">ici</a> 
