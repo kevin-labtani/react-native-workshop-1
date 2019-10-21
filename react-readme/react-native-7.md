@@ -30,7 +30,7 @@ class Search extends React.Component {
 **this.state** *films: []* n'affiche aucun film dans le tableau.  
 *isLoading:false* le symbole de chargement ne s'affiche pas tant qu'il n'y a pas de recherche.  
 
-On ajout à la suite :  
+On ajoute à la suite :  
 
 ```javascript
  _loadFilms() {
