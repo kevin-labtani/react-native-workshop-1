@@ -2,6 +2,12 @@
 
 ![logo React Native](assets/img/react-native.jpg)
 
+## Réalisé par
+- <a href="https://github.com/ChrisDemey">Christophe Demey</a>
+- <a href="https://github.com/Thomas-Florent">Florent</a>
+- <a href="https://github.com/ludoviclambinon">Ludovic Lambinon</a>
+
+
 ### React Native c'est quoi ? 
 React Native est un framework d'applications mobiles open source créé par Facebook. Il est utilisé pour développer des applications pour Android, iOS et UWP (Universal Windows Platform) en permettant aux développeurs d’utiliser React avec les fonctionnalitées native de ces plateformes. 
 
