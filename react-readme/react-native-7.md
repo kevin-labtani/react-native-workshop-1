@@ -143,4 +143,6 @@ const styles = StyleSheet.create({
 export default Search
 ```  
 
-Vous devriez donc avoir une App fonctionnelle sur mobile et qui affiche les résultats de films recherchés.
+Vous devriez donc avoir une App fonctionnelle sur mobile et qui affiche les résultats de films recherchés.    
+
+![image final-app](../assets/img/final-app.png)  
